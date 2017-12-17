@@ -4,6 +4,9 @@ title: Blogging with title
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
-# I am a BIG title
+# OSS2017 
 
-This is a very tiny tiny post with less than 250 letters.
+Hanyang Univ. (ERICA)
+ICT
+이현아
+2017013154
