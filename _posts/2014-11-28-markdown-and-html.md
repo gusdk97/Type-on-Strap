@@ -1,21 +1,27 @@
 ---
 layout: post
-title: Markdown and HTML
+title: Our Report
 tags: [Test, Markdown]
 ---
+Report
 
-Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+2017/10/12
+![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/20171012.png)
 
-Tables have also been extended from Markdown:
+2017/10/19
+![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/20171019.png)
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+2017/11/02
+![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/20171102.png)
 
-Here's an example of an image, which is included using Markdown:
+2017/11/12
+![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/20171112.png)
 
-![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/sample2.png)
+2017/11/17
+![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/20171117.png)
+
+2017/11/23
+![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/20171123.png)
 
 Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Rouge by default.
 
